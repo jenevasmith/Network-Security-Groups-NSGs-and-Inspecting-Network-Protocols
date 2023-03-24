@@ -1,6 +1,6 @@
 # Network Security Groups NSGs and Inspecting Network Protocols
 <p align="center">
-<img src="https://https://imgur.com/rWWmatS" alt="osTicket logo"/>
+<img src="https://https://imgur.com/rWWmatS.png" alt="Windows Logo"/>
 </p>
 
 This tutorial outlines the osTicket: post-installation of the open-source help desk ticketing system osTicket.<br />
