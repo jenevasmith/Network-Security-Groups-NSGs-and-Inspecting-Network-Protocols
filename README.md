@@ -1,4 +1,4 @@
-# Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols
+# Network Security Groups NSGs and Inspecting Network Protocols
 <p align="center">
 <img src="https://imgur.com/rWWmatS"/>
 </p>
