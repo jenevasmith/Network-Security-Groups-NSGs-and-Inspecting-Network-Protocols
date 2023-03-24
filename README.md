@@ -25,3 +25,4 @@ This tutorial outlines the osTicket: post-installation of the open-source help d
 - Browse <a href="http://localhost/osTicket/">End Users osTicket URL.
 
 <h2>Post-Installation Steps</h2>
+*
