@@ -10,8 +10,7 @@ This tutorial outlines the osTicket: post-installation of the open-source help d
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
-- osTicket (help desk ticketing system)
+- Active Directory
 
 <h2>Operating Systems Used </h2>
 
