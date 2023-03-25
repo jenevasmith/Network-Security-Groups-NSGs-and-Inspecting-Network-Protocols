@@ -1,9 +1,9 @@
-# Network Security Groups NSGs and Inspecting Network Protocols
+# Network Security Groups (NSGs) and Inspecting Network Protocols
 <p align="center">
 <img src="https://imgur.com/rWWmatS.png" alt="windows logo"/>
 </p>
 
-This tutorial outlines the osTicket: post-installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines network security groups (NSGs) and inspecting network protocols.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -30,5 +30,5 @@ This tutorial outlines the osTicket: post-installation of the open-source help d
 - Create additional users and attempt to log into Client-1 as one of the users.
 
 
-<h2>Post-Installation Steps</h2>
+<h2>Setting Up Network Security Groups (NSGs) and Inspecting Network Protocol Steps</h2>
 
