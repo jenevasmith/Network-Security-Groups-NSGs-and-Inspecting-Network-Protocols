@@ -96,250 +96,241 @@ Type “Domain Users” in the search box. 93 <img src="https://i.imgur.com/DJmE
 </p>
 <p>
 
-- Header
+- Add
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Click the Add button. 94 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Permission Level
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+The Permission Level will default to “Read,” so click the Share button. 95 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Done
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Click the Done button. 96 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Close
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Click the Close button. 97 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Properties
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Right click on the “write-access” folder. Select Properties from the drop down menu. 98 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Sharing
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Select the Sharing tab. Then, click on the Sharing button. 99 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Domain Users
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Type “Domain Users” in the search box. 100 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Add
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Click the Add button. 101 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Permission Level
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Within the Permission Level section select the “Read/Write,” option. 102 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Share 
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Click the Share button. 103 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Done
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Click the Done button. 104 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Close
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Click the Close button. 105 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Properties
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Right click on the “no-access” folder. Select Properties from the drop down menu. 106 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Sharing
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Select the Sharing tab. Then, click on the Sharing button. 107 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Domain Admins
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Type “Domain Admins” in the search box. 108 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Add
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Click the Add button. 109 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Permission Level
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Within the Permission Level section select the “Read/Write,” option. 110 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Share
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Click the Share button. 111 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Done
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Click the Done button. 112 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Close
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Click the Close button. 113 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Attempt to access file shares as a normal user.
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+In Client-1, open File Explorer. 114 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+<p>
+Within the search bar type, “\\dc-1. Then, click “Enter” 115 <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Try to access the folders you just created. Which folders can you access? Which folders can you create stuff in? 116 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Example
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+For example, in the “write-access” folder you should be able to create a file within this folder. 117 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Active Directory Users and Computers
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Within Active Directory Users and Computers, right click on mydomain.com. 118 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- New
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Select New from the drop down menu. 119 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Organizational Unit
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Then, click on the Organizational Unit option. 120 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Security Groups
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Type “_SECURITY_GROUPS” in the name box. Then, click the OK button. 121 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- mydomain.com
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Right click on “mydomain.com” within Active Directory Users and Computers. 122 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Refresh
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Within mydomain.com’s drop down menu select the Refresh. 123 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Security Groups
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Right click on _SECURITY_GROUPS. 124 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- New
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Select “New” from _SECURITY_GROUPS’ drop down menu. 125 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Group
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Click on Group. 126 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Accountants
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Add “ACCOUNTANTS” to the Group Name section. The Group Type is defaulted to “Security Group.” Then, click the OK button. 127 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
-  
-<p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
-</p>
-<p>
-
-- Header
-  
-<p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
-</p>
-<p>
+- Create an “ACCOUNTANTS” Security Group, assign permissions, and test access. 
 
 - Header
   
