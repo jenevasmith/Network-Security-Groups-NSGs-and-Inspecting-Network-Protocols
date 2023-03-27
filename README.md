@@ -332,199 +332,139 @@ Add “ACCOUNTANTS” to the Group Name section. The Group Type is defaulted to 
 
 - Create an “ACCOUNTANTS” Security Group, assign permissions, and test access. 
 
-- Header
+- Properties
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+In Windows (C:) right click the “accounting” folder. Then, select Properties from the drop down menu. 128 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Sharing
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Select the Sharing tab. Then, click on the Sharing button. 129 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- ACCOUNTANTS
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Type “ACCOUNTANTS” in the search box. 130 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Add
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Click the Add button. 131 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Permission Level
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Within the Permission Level section select the “Read/Write,” option. 132 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Share 
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Click the Share button. 133 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Done
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Click the Done button. <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Close
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Click the Close button. <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Accounting Folder
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+In Client-1, as a randomly generated user of your choice, try to access the accounting folder. 137 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- dc-1
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Within File Explorer click on, “dc-1.” 136 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Log out of Client-1 as the randomly generated user that you selected. *PICTURE UNAVAILABLE*
+
+- DC-1
+In DC-1, make [a randomly generated user of your choice] a member of the “ACCOUNTANTS” Security Group. 138
+
+- mydomain.com
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Right click on “mydomain.com” within Active Directory Users and Computers. 139 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Security Groups
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Right click on “_SECURITY_GROUPS.” 140 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Members
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Select the Members tab. 141 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Add
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Click the Add button. 142 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Object Names
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Enter the username of a randomly generated user of your choice. Click the Check Names and OK buttons, respectively. 143 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Apply and OK
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Click the Apply and OK buttons, respectively. 144 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Sign back in
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Sign back into Client-1 as the randomly generated user that you selected. 145 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Accounting
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+Try to access the “accounting” share in File Explorer via \\DC-1\. Does it work now? 146 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
-
-- Header
   
 <p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
-</p>
-<p>
-
-- Header
-  
-<p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
-</p>
-<p>
-
-- Header
-  
-<p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
-</p>
-<p>
-
-- Header
-  
-<p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
-</p>
-<p>
-
-- Header
-  
-<p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
-</p>
-<p>
-
-- Header
-  
-<p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
-</p>
-<p>
-
-- Header
-  
-<p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
-</p>
-<p>
-
-- Header
-  
-<p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
-</p>
-<p>
-
-- Header
-  
-<p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
-</p>
-<p>
-
-- Header
-  
-<p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+The accounting folder should now be accessible to the randomly generated user that you selected. 147 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
