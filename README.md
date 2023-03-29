@@ -460,7 +460,7 @@ Try to access the “accounting” share in File Explorer via \\DC-1\. Does it w
 <p>
   
 <p>
-The accounting folder should now be accessible to the randomly generated user that you selected. 146 <img src="https://i.imgur.com/DJmEXEB.png">
+The accounting folder should now be accessible to the previously generated user that you selected. 146 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
