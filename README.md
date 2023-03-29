@@ -398,7 +398,12 @@ Go back to Client-1 and as the randomly generated user of your choice, try to ac
 - dc-1
   
 <p>
-Within File Explorer click on, “dc-1.” 136 <img src="https://i.imgur.com/DJmEXEB.png">
+Within File Explorer type “\\dc-1” to access the shared items. 136 <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+
+<p>
+Double click on the “accounting” folder. It should fail. 137 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
