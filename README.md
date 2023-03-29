@@ -263,14 +263,14 @@ For example, in the “write-access” folder you should be able to create a fil
 - Active Directory Users and Computers
   
 <p>
-Within Active Directory Users and Computers, the mydomain.com option should already be open. If it isn’t, right click on it. 118 <img src="https://i.imgur.com/DJmEXEB.png">
+Within Active Directory Users and Computers, the mydomain.com option should be visible. 118 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
 - New
   
 <p>
-Select New from the drop down menu. 119 <img src="https://i.imgur.com/DJmEXEB.png">
+Right click on mydomain.com and select New from the drop down menu. 119 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
