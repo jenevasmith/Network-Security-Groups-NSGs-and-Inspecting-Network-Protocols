@@ -450,7 +450,7 @@ Click the Apply and OK buttons, respectively. 143 <img src="https://i.imgur.com/
 - Sign back in
   
 <p>
-Sign back into Client-1 as the randomly generated user that you selected. 144 <img src="https://i.imgur.com/DJmEXEB.png">
+Go back to Client-1 as the randomly generated user that you previously selected. 144 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
