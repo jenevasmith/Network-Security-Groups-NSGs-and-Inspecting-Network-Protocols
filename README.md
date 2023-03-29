@@ -391,7 +391,7 @@ Click the Close button. <img src="https://i.imgur.com/DJmEXEB.png">
 - Accounting Folder
   
 <p>
-In Client-1, as a randomly generated user of your choice, try to access the accounting folder. 137 <img src="https://i.imgur.com/DJmEXEB.png">
+Go back to Client-1 and as the randomly generated user of your choice, try to access the accounting folder. *PICTURE UNAVAILABLE* <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
