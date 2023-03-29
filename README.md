@@ -410,57 +410,57 @@ Double click on the “accounting” folder. It should fail. 137 <img src="https
 - Log out of Client-1 as the randomly generated user that you selected. *PICTURE UNAVAILABLE*
 
 - DC-1
-In DC-1, make [a randomly generated user of your choice] a member of the “ACCOUNTANTS” Security Group. 138
+In DC-1, make the randomly generated user that you selected a member of the “ACCOUNTANTS” Security Group. *PICTURE UNAVAILABLE*
 
 - Security Groups
   
 <p>
-Within “_SECURITY_GROUPS” click on ACCOUNTANTS. 139 <img src="https://i.imgur.com/DJmEXEB.png">
+Within “_SECURITY_GROUPS” click on ACCOUNTANTS. 138 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
 - Members
   
 <p>
-Select the Members tab. 140 <img src="https://i.imgur.com/DJmEXEB.png">
+Select the Members tab. 139 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
 - Add
   
 <p>
-Click the Add button. 141 <img src="https://i.imgur.com/DJmEXEB.png">
+Click the Add button. 140 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
 - Object Names
   
 <p>
-Enter the username of a randomly generated user of your choice. Click the Check Names and OK buttons, respectively. 142 <img src="https://i.imgur.com/DJmEXEB.png">
+Enter the username of a randomly generated user of your choice. Click the Check Names and OK buttons, respectively. 141 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
 - Apply and OK
   
 <p>
-Click the Apply and OK buttons, respectively. 143 <img src="https://i.imgur.com/DJmEXEB.png">
+Click the Apply and OK buttons, respectively. 142 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
 - Sign back in
   
 <p>
-Go back to Client-1 as the randomly generated user that you previously selected. 144 <img 
+Go back to Client-1 as the randomly generated user that you previously selected. 143 <img 
 
 - Accounting
   
 <p>
-Try to access the “accounting” share in File Explorer via \\DC-1\. Does it work now? 145 <img src="https://i.imgur.com/DJmEXEB.png">
+Try to access the “accounting” share in File Explorer via \\DC-1\. Does it work now? 144 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
 <p>
-The accounting folder should now be accessible to the previously generated user that you selected. 146 <img src="https://i.imgur.com/DJmEXEB.png">
+The accounting folder should now be accessible to the previously generated user that you selected. 145 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
