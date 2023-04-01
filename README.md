@@ -78,21 +78,21 @@ DC-1, in the C:\ drive, folder: accounting <img src="https://imgur.com/nPTyejh.p
 - Properties
   
 <p>
-Right click on the “read-access” folder. Select Properties from the drop down menu. 91 <img src="https://i.imgur.com/DJmEXEB.png">
+Right click on the “read-access” folder. Select Properties from the drop down menu. <img src="https://imgur.com/b22rg0u.png">
 </p>
 <p>
 
 - Sharing
   
 <p>
-Select the Sharing tab. Then, click on the Sharing button. 92 <img src="https://i.imgur.com/DJmEXEB.png">
+Select the Sharing tab. Then, click on the Sharing button. 92 <img src="https://imgur.com/ztKAdCS.png">
 </p>
 <p>
 
 - Domain Users
   
 <p>
-Type “Domain Users” in the search box. 93 <img src="https://i.imgur.com/DJmEXEB.png">
+Type “Domain Users” in the search box. <img src="https://imgur.com/QrpgvxW.png">
 </p>
 <p>
 
