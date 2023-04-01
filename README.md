@@ -85,7 +85,7 @@ Right click on the “read-access” folder. Select Properties from the drop dow
 - Sharing
   
 <p>
-Select the Sharing tab. Then, click on the Sharing button. 92 <img src="https://imgur.com/ztKAdCS.png">
+Select the Sharing tab. Then, click on the Sharing button. <img src="https://imgur.com/ztKAdCS.png">
 </p>
 <p>
 
@@ -99,63 +99,63 @@ Type “Domain Users” in the search box. <img src="https://imgur.com/QrpgvxW.p
 - Add
   
 <p>
-Click the Add button. 94 <img src="https://i.imgur.com/DJmEXEB.png">
+Click the Add button. <img src="https://imgur.com/URg45Gl.png">
 </p>
 <p>
 
 - Permission Level
   
 <p>
-The Permission Level will default to “Read,” so click the Share button. 95 <img src="https://i.imgur.com/DJmEXEB.png">
+The Permission Level will default to “Read,” so click the Share button. <img src="https://imgur.com/CB0ZeFK.png">
 </p>
 <p>
 
 - Done
   
 <p>
-Click the Done button. 96 <img src="https://i.imgur.com/DJmEXEB.png">
+Click the Done button. <img src="https://imgur.com/G2TzJVo.png">
 </p>
 <p>
 
 - Close
   
 <p>
-Click the Close button. 97 <img src="https://i.imgur.com/DJmEXEB.png">
+Click the Close button. <img src="https://imgur.com/yyo9fU2.png">
 </p>
 <p>
 
 - Properties
   
 <p>
-Right click on the “write-access” folder. Select Properties from the drop down menu. 98 <img src="https://i.imgur.com/DJmEXEB.png">
+Right click on the “write-access” folder. Select Properties from the drop down menu. <img src="https://imgur.com/JEk0QLv.png">
 </p>
 <p>
 
 - Sharing
   
 <p>
-Select the Sharing tab. Then, click on the Sharing button. 99 <img src="https://i.imgur.com/DJmEXEB.png">
+Select the Sharing tab. Then, click on the Sharing button. <img src="https://imgur.com/vaR0uOY.png">
 </p>
 <p>
 
 - Domain Users
   
 <p>
-Type “Domain Users” in the search box. 100 <img src="https://i.imgur.com/DJmEXEB.png">
+Type “Domain Users” in the search box. <img src="https://imgur.com/JcNloB2.png">
 </p>
 <p>
 
 - Add
   
 <p>
-Click the Add button. 101 <img src="https://i.imgur.com/DJmEXEB.png">
+Click the Add button. <img src="https://imgur.com/E35BboL.png">
 </p>
 <p>
 
 - Permission Level
   
 <p>
-Within the Permission Level section select the “Read/Write,” option. 102 <img src="https://i.imgur.com/DJmEXEB.png">
+Within the Permission Level section select the “Read/Write,” option.<img src="https://imgur.com/0xAccju.png">
 </p>
 <p>
 
