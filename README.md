@@ -450,24 +450,17 @@ Click the Apply and OK buttons, respectively.<img src="https://imgur.com/Frl7Dzj
 - Sign back in
   
 <p>
-Go back to Client-1 as the randomly generated user that you previously selected. 143<img src="https://imgur.com/IUME0Yy.png">
+Go back to Client-1 as the randomly generated user that you previously selected.<img src="https://imgur.com/IUME0Yy.png">
 
 - Accounting
   
 <p>
-Try to access the “accounting” share in File Explorer via \\DC-1\. Does it work now? 144<img src="https://i.imgur.com/DJmEXEB.png">
+Try to access the “accounting” share in File Explorer via \\DC-1\. Does it work now?<img src="https://imgur.com/hSyLLZd.png">
 </p>
 <p>
   
 <p>
-The accounting folder should now be accessible to the previously generated user that you selected. 145<img src="https://i.imgur.com/DJmEXEB.png">
-</p>
-<p>
-
-- Header
-  
-<p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
+The accounting folder should now be accessible to the previously generated user that you selected.<img src="https://imgur.com/3rFI9Av.png">
 </p>
 <p>
 
