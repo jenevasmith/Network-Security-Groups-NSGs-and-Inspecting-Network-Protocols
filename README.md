@@ -32,46 +32,46 @@ This tutorial outlines network security groups (NSGs) and inspecting network pro
 
 <h2>Setting Up Network Security Groups (NSGs) and Inspecting Network Protocol Steps</h2>
 
-- Create sample file shares with various permissions. *PICTURE NOT INCLUDED*
+- Create sample file shares with various permissions.
 
 <p>
-Connect/log into DC-1 as your domain admin account (mydomain.com\[insert administrator username]). 84 <img src="https://i.imgur.com/DJmEXEB.png">
+Connect/log into DC-1 as your domain admin account (mydomain.com\[insert administrator username]). <img src="https://imgur.com/Q156ssu.png">
 </p>
 <p>
 
 - Connect/log into Client-1 as a normal user (mydomain\[insert the username of a randomly generated user of your choice]. 
   
 <p>
-Within Active Directory Users and Computers, click on mydomain.com’s drop down menu. Select “_EMPLOYEES” from mydomain.com’s drop down menu. Then, choose a user. 85 <img src="https://i.imgur.com/DJmEXEB.png">
+Within Active Directory Users and Computers, click on mydomain.com’s drop down menu. Select “_EMPLOYEES” from mydomain.com’s drop down menu. Then, choose a user. <img src="https://imgur.com/LymBYkP">
 </p>
 <p>
 
 - Login 
   
 <p>
-Login as the user you have selected. 86 <img src="https://i.imgur.com/DJmEXEB.png">
+Login as the user you have selected. <img src="https://imgur.com/j5IBzhx.png">
 </p>
 <p>
 
-- On DC-1, in the C:\ drive, create 4 folders: “read-access,” “write-access,” “no-access,” and “accounting.” *PICTURE NOT INCLUDED*
+- On DC-1, in the C:\ drive, create 4 folders: “read-access,” “write-access,” “no-access,” and “accounting.”
   
 <p>
-DC-1, in the C:\ drive, folder: read-access 87 <img src="https://i.imgur.com/DJmEXEB.png">
+DC-1, in the C:\ drive, folder: read-access <img src="https://imgur.com/zXQ5bnV.png">
 </p>
 <p>
   
 <p>
-DC-1, in the C:\ drive, folder: write-access 88 <img src="https://i.imgur.com/DJmEXEB.png">
+DC-1, in the C:\ drive, folder: write-access <img src="https://imgur.com/lpEQ1A2.png">
 </p>
 <p>
   
 <p>
-DC-1, in the C:\ drive, folder: no-access 89 <img src="https://i.imgur.com/DJmEXEB.png">
+DC-1, in the C:\ drive, folder: no-access <img src="https://imgur.com/dLBJNRb.png">
 </p>
 <p>
   
 <p>
-DC-1, in the C:\ drive, folder: accounting 90 <img src="https://i.imgur.com/DJmEXEB.png">
+DC-1, in the C:\ drive, folder: accounting <img src="https://imgur.com/nPTyejh.png">
 </p>
 <p>
 
