@@ -162,101 +162,101 @@ Within the Permission Level section select the “Read/Write,” option.<img src
 - Share 
   
 <p>
-Click the Share button. 103<img src="https://i.imgur.com/DJmEXEB.png">
+Click the Share button.<img src="https://imgur.com/0J9f2fc.png">
 </p>
 <p>
 
 - Done
   
 <p>
-Click the Done button. 104<img src="https://i.imgur.com/DJmEXEB.png">
+Click the Done button.<img src="https://imgur.com/2Bb6R93.png">
 </p>
 <p>
 
 - Close
   
 <p>
-Click the Close button. 105<img src="https://i.imgur.com/DJmEXEB.png">
+Click the Close button.<img src="https://imgur.com/az75AR9.png">
 </p>
 <p>
 
 - Properties
   
 <p>
-Right click on the “no-access” folder. Select Properties from the drop down menu. 106<img src="https://i.imgur.com/DJmEXEB.png">
+Right click on the “no-access” folder. Select Properties from the drop down menu.<img src="https://imgur.com/pd7u5qi.png">
 </p>
 <p>
 
 - Sharing
   
 <p>
-Select the Sharing tab. Then, click on the Sharing button. 107<img src="https://i.imgur.com/DJmEXEB.png">
+Select the Sharing tab. Then, click on the Sharing button.<img src="https://imgur.com/xGL0ni0.png">
 </p>
 <p>
 
 - Domain Admins
   
 <p>
-Type “Domain Admins” in the search box. 108<img src="https://i.imgur.com/DJmEXEB.png">
+Type “Domain Admins” in the search box.<img src="https://imgur.com/AP9ekue.png">
 </p>
 <p>
 
 - Add
   
 <p>
-Click the Add button. 109<img src="https://i.imgur.com/DJmEXEB.png">
+Click the Add button.<img src="https://imgur.com/LIACABx.png">
 </p>
 <p>
 
 - Permission Level
   
 <p>
-Within the Permission Level section select the “Read/Write,” option. 110<img src="https://i.imgur.com/DJmEXEB.png">
+Within the Permission Level section select the “Read/Write,” option.<img src="https://imgur.com/j4QxUmG.png">
 </p>
 <p>
 
 - Share
   
 <p>
-Click the Share button. 111<img src="https://i.imgur.com/DJmEXEB.png">
+Click the Share button. 111<img src="https://imgur.com/hJy0wd2.png">
 </p>
 <p>
 
 - Done
   
 <p>
-Click the Done button. 112<img src="https://i.imgur.com/DJmEXEB.png">
+Click the Done button.<img src="https://imgur.com/RsE8SLx.png">
 </p>
 <p>
 
 - Close
   
 <p>
-Click the Close button. 113<img src="https://i.imgur.com/DJmEXEB.png">
+Click the Close button.<img src="https://imgur.com/M1H5AvY.png">
 </p>
 <p>
 
 - Attempt to access file shares as a normal user.
   
 <p>
-In Client-1, open File Explorer. 114<img src="https://i.imgur.com/DJmEXEB.png">
+In Client-1, open File Explorer.<img src="https://imgur.com/mhuwMDU.png">
 </p>
 <p>
 
 <p>
-Within the search bar type, “\\dc-1. Then, click “Enter” 115<img src="https://i.imgur.com/DJmEXEB.png">
+Within the search bar type, “\\dc-1. Then, click “Enter”<img src="https://imgur.com/0K75mEL.png">
 </p>
 <p>
   
 <p>
-Try to access the folders you just created. Which folders can you access? Which folders can you create stuff in? 116<img src="https://i.imgur.com/DJmEXEB.png">
+Try to access the folders you just created. Which folders can you access? Which folders can you create stuff in?<img src="https://imgur.com/UPEjlpO.png">
 </p>
 <p>
 
 - Example
   
 <p>
-For example, in the “write-access” folder you should be able to create a file within this folder. 117<img src="https://i.imgur.com/DJmEXEB.png">
+For example, in the “write-access” folder you should be able to create a file within this <img src="https://imgur.compng">
 </p>
 <p>
 
