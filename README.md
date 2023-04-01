@@ -256,77 +256,77 @@ Try to access the folders you just created. Which folders can you access? Which 
 - Example
   
 <p>
-For example, in the “write-access” folder you should be able to create a file within this <img src="https://imgur.compng">
+For example, in the “write-access” folder you should be able to create a file within this folder.<img src="https://imgur.com/onKLCuY.png">
 </p>
 <p>
 
 - Active Directory Users and Computers
   
 <p>
-Within Active Directory Users and Computers, the mydomain.com option should be visible. 118<img src="https://i.imgur.com/DJmEXEB.png">
+Within Active Directory Users and Computers, the mydomain.com option should be visible.<img src="https://imgur.com/91jcX5T.png">
 </p>
 <p>
 
 - New
   
 <p>
-Right click on mydomain.com and select New from the drop down menu. 119<img src="https://i.imgur.com/DJmEXEB.png">
+Right click on mydomain.com and select New from the drop down menu.<img src="https://imgur.com/IuDYW7A.png">
 </p>
 <p>
 
 - Organizational Unit
   
 <p>
-Then, click on the Organizational Unit option. 120<img src="https://i.imgur.com/DJmEXEB.png">
+Then, click on the Organizational Unit option.<img src="https://imgur.com/UdES8Ak.png">
 </p>
 <p>
 
 - Security Groups
   
 <p>
-Type “_SECURITY_GROUPS” in the name box. Then, click the OK button. 121<img src="https://i.imgur.com/DJmEXEB.png">
+Type “_SECURITY_GROUPS” in the name box. Then, click the OK button.<img src="https://imgur.com/032kPU9.png">
 </p>
 <p>
 
 - mydomain.com
   
 <p>
-Right click on “mydomain.com” within Active Directory Users and Computers. 122<img src="https://i.imgur.com/DJmEXEB.png">
+Right click on “mydomain.com” within Active Directory Users and Computers.<img src="https://imgur.com/Wz618Zx.png">
 </p>
 <p>
 
 - Refresh
   
 <p>
-Within mydomain.com’s drop down menu select the Refresh. 123<img src="https://i.imgur.com/DJmEXEB.png">
+Within mydomain.com’s drop down menu select the Refresh.<img src="https://imgur.com/K9f10ad.png">
 </p>
 <p>
 
 - Security Groups
   
 <p>
-Right click on _SECURITY_GROUPS. 124<img src="https://i.imgur.com/DJmEXEB.png">
+Right click on _SECURITY_GROUPS.<img src="https://imgur.com/sr4hdL5.png">
 </p>
 <p>
 
 - New
   
 <p>
-Select “New” from _SECURITY_GROUPS’ drop down menu. 125<img src="https://i.imgur.com/DJmEXEB.png">
+Select “New” from _SECURITY_GROUPS’ drop down menu.<img src="https://imgur.com/utamT8S.png">
 </p>
 <p>
 
 - Group
   
 <p>
-Click on Group. 126<img src="https://i.imgur.com/DJmEXEB.png">
+Click on Group.<img src="https://imgur.com/TyKztys.png">
 </p>
 <p>
 
 - Accountants
   
 <p>
-Add “ACCOUNTANTS” to the Group Name section. The Group Type is defaulted to “Security Group.” Then, click the OK button. 127<img src="https://i.imgur.com/DJmEXEB.png">
+Add “ACCOUNTANTS” to the Group Name section. The Group Type is defaulted to “Security Group.” Then, click the OK button.<img src="https://imgur.com/SDbIDqC.png">
 </p>
 <p>
 
@@ -335,122 +335,122 @@ Add “ACCOUNTANTS” to the Group Name section. The Group Type is defaulted to 
 - Properties
   
 <p>
-In Windows (C:) right click the “accounting” folder. Then, select Properties from the drop down menu. 128<img src="https://i.imgur.com/DJmEXEB.png">
+In Windows (C:) right click the “accounting” folder. Then, select Properties from the drop down menu.<img src="https://imgur.com/3sgE1Zt.png">
 </p>
 <p>
 
 - Sharing
   
 <p>
-Select the Sharing tab. Then, click on the Sharing button. 129<img src="https://i.imgur.com/DJmEXEB.png">
+Select the Sharing tab. Then, click on the Sharing button.<img src="https://imgur.com/KJt65yx.png">
 </p>
 <p>
 
 - ACCOUNTANTS
   
 <p>
-Type “ACCOUNTANTS” in the search box. 130<img src="https://i.imgur.com/DJmEXEB.png">
+Type “ACCOUNTANTS” in the search box.<img src="https://imgur.com/8Zf7pSI.png">
 </p>
 <p>
 
 - Add
   
 <p>
-Click the Add button. 131<img src="https://i.imgur.com/DJmEXEB.png">
+Click the Add button.<img src="https://imgur.com/Co6zrHF.png">
 </p>
 <p>
 
 - Permission Level
   
 <p>
-Within the Permission Level section select the “Read/Write,” option. 132<img src="https://i.imgur.com/DJmEXEB.png">
+Within the Permission Level section select the “Read/Write,” option.<img src="https://imgur.com/4ylrOta.png">
 </p>
 <p>
 
 - Share 
   
 <p>
-Click the Share button. 133<img src="https://i.imgur.com/DJmEXEB.png">
+Click the Share button.<img src="https://imgur.com/ntoCAQu.png">
 </p>
 <p>
 
 - Done
   
 <p>
-Click the Done button. 134 <img src="https://i.imgur.com/DJmEXEB.png">
+Click the Done button. <img src="https://imgur.com/3HPK96n.png">
 </p>
 <p>
 
 - Close
   
 <p>
-Click the Close button. 135<img src="https://i.imgur.com/DJmEXEB.png">
+Click the Close button.<img src="https://imgur.com/zgo4N2D.png">
 </p>
 <p>
 
 - Accounting Folder
   
 <p>
-Go back to Client-1 and as the randomly generated user of your choice, try to access the accounting folder. *PICTURE UNAVAILABLE* <img src="https://i.imgur.com/DJmEXEB.png">
+Go back to Client-1 and as the randomly generated user of your choice, try to access the accounting folder.
 </p>
 <p>
 
 - dc-1
   
 <p>
-Within File Explorer type “\\dc-1” to access the shared items. 136<img src="https://i.imgur.com/DJmEXEB.png">
+Within File Explorer type “\\dc-1” to access the shared items.<img src="https://imgur.com/qJE3RE6.png">
 </p>
 <p>
 
 <p>
-Double click on the “accounting” folder. It should fail. 137<img src="https://i.imgur.com/DJmEXEB.png">
+Double click on the “accounting” folder. It should fail.<img src="https://imgur.com/pYq8v6f.png">
 </p>
 <p>
 
-- Log out of Client-1 as the randomly generated user that you selected. *PICTURE UNAVAILABLE*
+- Log out of Client-1 as the randomly generated user that you selected.
 
 - DC-1
-In DC-1, make the randomly generated user that you selected a member of the “ACCOUNTANTS” Security Group. *PICTURE UNAVAILABLE*
+In DC-1, make the randomly generated user that you selected a member of the “ACCOUNTANTS” Security Group.
 
 - Security Groups
   
 <p>
-Within “_SECURITY_GROUPS” click on ACCOUNTANTS. 138<img src="https://i.imgur.com/DJmEXEB.png">
+Within “_SECURITY_GROUPS” click on ACCOUNTANTS.<img src="https://imgur.com/1oZQeqO.png">
 </p>
 <p>
 
 - Members
   
 <p>
-Select the Members tab. 139<img src="https://i.imgur.com/DJmEXEB.png">
+Select the Members tab.<img src="https://imgur.com/auFkf8h.png">
 </p>
 <p>
 
 - Add
   
 <p>
-Click the Add button. 140<img src="https://i.imgur.com/DJmEXEB.png">
+Click the Add button.<img src="https://imgur.com/in2STTG.png">
 </p>
 <p>
 
 - Object Names
   
 <p>
-Enter the username of a randomly generated user of your choice. Click the Check Names and OK buttons, respectively. 141<img src="https://i.imgur.com/DJmEXEB.png">
+Enter the username of a randomly generated user of your choice. Click the Check Names and OK buttons, respectively.<img src="https://imgur.com/KlpbfMw.png">
 </p>
 <p>
 
 - Apply and OK
   
 <p>
-Click the Apply and OK buttons, respectively. 142<img src="https://i.imgur.com/DJmEXEB.png">
+Click the Apply and OK buttons, respectively.<img src="https://imgur.com/Frl7Dzj.png">
 </p>
 <p>
 
 - Sign back in
   
 <p>
-Go back to Client-1 as the randomly generated user that you previously selected. 143<img 
+Go back to Client-1 as the randomly generated user that you previously selected. 143<img src="https://imgur.com/IUME0Yy.png">
 
 - Accounting
   
