@@ -53,7 +53,7 @@ Within Active Directory Users and Computers, click on mydomain.com’s drop down
 </p>
 <p>
 
-- On DC-1, in the C:\ drive, create 4 folders: “read-access,” “write-access,” “no-access,” and “accounting.”
+- DC-1 < C:\ drive < Create 4 Folders: “Read-Access,” “Write-Access,” “No-Access,” “Accounting”
   
 <p>
 DC-1, in the C:\ drive, folder: read-access<img src="https://imgur.com/zXQ5bnV.png">
