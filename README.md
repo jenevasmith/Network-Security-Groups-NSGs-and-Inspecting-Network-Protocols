@@ -42,14 +42,14 @@ Connect/log into DC-1 as your domain admin account (mydomain.com\[insert adminis
 - Connect/log into Client-1 as a normal user (mydomain\[insert the username of a randomly generated user of your choice]. 
   
 <p>
-Within Active Directory Users and Computers, click on mydomain.com’s drop down menu. Select “_EMPLOYEES” from mydomain.com’s drop down menu. Then, choose a user.<img src="https://imgur.com/91jcX5T.png">
+Within Active Directory Users and Computers, click on mydomain.com’s drop down menu. Select “_EMPLOYEES” from mydomain.com’s drop down menu. Then, choose a user to login as.<img src="https://imgur.com/91jcX5T.png">
 </p>
 <p>
 
 - Login 
   
 <p>
-Login as the user you have selected. <img src="https://imgur.com/j5IBzhx.png">
+<img src="https://imgur.com/j5IBzhx.png">
 </p>
 <p>
 
