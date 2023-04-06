@@ -53,25 +53,25 @@ Within Active Directory Users and Computers, click on mydomain.com’s drop down
 </p>
 <p>
 
-- DC-1 < C:\ drive < Create 4 Folders: “Read-Access,” “Write-Access,” “No-Access,” “Accounting”
+- Create 4 Folders: Read-Access, Write-Access, No-Access, and Accounting
   
 <p>
-DC-1, in the C:\ drive, folder: read-access<img src="https://imgur.com/zXQ5bnV.png">
+First, in DC-1, in the C:\ drive, create folder: read-access<img src="https://imgur.com/zXQ5bnV.png">
 </p>
 <p>
   
 <p>
-DC-1, in the C:\ drive, folder: write-access<img src="https://imgur.com/lpEQ1A2.png">
+Then, in DC-1, in the C:\ drive, create folder: write-access<img src="https://imgur.com/lpEQ1A2.png">
 </p>
 <p>
   
 <p>
-DC-1, in the C:\ drive, folder: no-access<img src="https://imgur.com/dLBJNRb.png">
+Next, DC-1, in the C:\ drive, create folder: no-access<img src="https://imgur.com/dLBJNRb.png">
 </p>
 <p>
   
 <p>
-DC-1, in the C:\ drive, folder: accounting<img src="https://imgur.com/nPTyejh.png">
+Followed by, in DC-1, in the C:\ drive, create folder: accounting<img src="https://imgur.com/nPTyejh.png">
 </p>
 <p>
 
