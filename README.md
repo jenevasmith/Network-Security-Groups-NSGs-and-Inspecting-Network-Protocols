@@ -49,7 +49,7 @@ Within Active Directory Users and Computers, click on mydomain.com’s drop down
 - Login 
   
 <p>
-Login as the user you have selected.<img src="https://imgur.com/j5IBzhx.png">
+Login as the user you have selected. <img src="https://imgur.com/j5IBzhx.png">
 </p>
 <p>
 
