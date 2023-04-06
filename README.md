@@ -106,7 +106,7 @@ The Permission Level will default to “Read,” so click the Share button.<img 
 - Done
   
 <p>
-Click the Done button.<img src="https://imgur.com/G2TzJVo.png">
+Then, click the Done button. <img src="https://imgur.com/G2TzJVo.png">
 </p>
 <p>
 
@@ -155,7 +155,7 @@ Click the Share button.<img src="https://imgur.com/0J9f2fc.png">
 - Done
   
 <p>
-Click the Done button.<img src="https://imgur.com/2Bb6R93.png">
+Then, click the Done button. <img src="https://imgur.com/2Bb6R93.png">
 </p>
 <p>
 
@@ -204,7 +204,7 @@ Click the Share button. 111<img src="https://imgur.com/hJy0wd2.png">
 - Done
   
 <p>
-Click the Done button.<img src="https://imgur.com/RsE8SLx.png">
+Then, click the Done button. <img src="https://imgur.com/RsE8SLx.png">
 </p>
 <p>
 
@@ -328,7 +328,7 @@ Select the Sharing tab. Then, click on the Sharing button.<img src="https://imgu
 - ACCOUNTANTS
   
 <p>
-Type “ACCOUNTANTS” in the search box.<img src="https://imgur.com/8Zf7pSI.png">
+Type “ACCOUNTANTS” in the search box. Then, Click the Add button. <img src="https://imgur.com/8Zf7pSI.png">
 </p>
 <p>
 
