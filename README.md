@@ -66,7 +66,7 @@ Then, in DC-1, in the C:\ drive, create folder: "write-access" <img src="https:/
 <p>
   
 <p>
-Next, DC-1, in the C:\ drive, create folder: "no-access" <img src="https://imgur.com/dLBJNRb.png">
+Next, in DC-1, in the C:\ drive, create folder: "no-access" <img src="https://imgur.com/dLBJNRb.png">
 </p>
 <p>
   
