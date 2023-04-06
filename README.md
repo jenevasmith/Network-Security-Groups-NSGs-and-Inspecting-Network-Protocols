@@ -92,14 +92,7 @@ Select the Sharing tab. Then, click on the Sharing button.<img src="https://imgu
 - Domain Users
   
 <p>
-Type “Domain Users” in the search box.<img src="https://imgur.com/QrpgvxW.png">
-</p>
-<p>
-
-- Add
-  
-<p>
-Click the Add button.<img src="https://imgur.com/URg45Gl.png">
+Type “Domain Users” in the search box. Then, click the Add button. <img src="https://imgur.com/QrpgvxW.png">
 </p>
 <p>
 
@@ -142,13 +135,6 @@ Select the Sharing tab. Then, click on the Sharing button.<img src="https://imgu
   
 <p>
 Type “Domain Users” in the search box.<img src="https://imgur.com/JcNloB2.png">
-</p>
-<p>
-
-- Add
-  
-<p>
-Click the Add button.<img src="https://imgur.com/E35BboL.png">
 </p>
 <p>
 
@@ -197,14 +183,7 @@ Select the Sharing tab. Then, click on the Sharing button.<img src="https://imgu
 - Domain Admins
   
 <p>
-Type “Domain Admins” in the search box.<img src="https://imgur.com/AP9ekue.png">
-</p>
-<p>
-
-- Add
-  
-<p>
-Click the Add button.<img src="https://imgur.com/LIACABx.png">
+Type “Domain Admins” in the search box. Then, click the Add button. <img src="https://imgur.com/AP9ekue.png">
 </p>
 <p>
 
