@@ -397,7 +397,7 @@ Afterward, click on the Apply and OK buttons, respectively. <img src="https://im
 </p>
 <p>
 
-- Sign back in
+- Sign Back In
   
 <p>
 Go back to Client-1 as the randomly generated user that you previously selected.<img src="https://imgur.com/IUME0Yy.png">
@@ -405,7 +405,7 @@ Go back to Client-1 as the randomly generated user that you previously selected.
 - Accounting
   
 <p>
-Try to access the “accounting” share in File Explorer via \\DC-1\. Does it work now?<img src="https://imgur.com/hSyLLZd.png">
+Try to access the “accounting” share folder in File Explorer via \\dc-1\. Does it work now?<img src="https://imgur.com/hSyLLZd.png">
 </p>
 <p>
   
