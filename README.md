@@ -291,7 +291,9 @@ Click on Group.<img src="https://imgur.com/TyKztys.png">
 - Accountants
   
 <p>
-Add “ACCOUNTANTS” to the Group Name section. The Group Type is defaulted to “Security Group.” Then, click the OK button.<img src="https://imgur.com/SDbIDqC.png">
+Add “ACCOUNTANTS” to the Group Name section. 
+<p>
+The Group Type is defaulted to “Security Group,” so click on the OK button. <img src="https://imgur.com/SDbIDqC.png">
 </p>
 <p>
 
