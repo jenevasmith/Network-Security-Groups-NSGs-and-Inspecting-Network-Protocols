@@ -176,14 +176,14 @@ Right click on the “no-access” folder. Select Properties from the drop down 
 - Sharing
   
 <p>
-Select the Sharing tab. Then, click on the Sharing button.<img src="https://imgur.com/xGL0ni0.png">
+Select the Sharing tab. Then, click on the Share button to share the folder. <img src="https://imgur.com/xGL0ni0.png">
 </p>
 <p>
 
 - Domain Admins
   
 <p>
-Type “Domain Admins” in the search box. Then, click the Add button. <img src="https://imgur.com/AP9ekue.png">
+Type “domain admins” in the search box. Then, click the Add button. <img src="https://imgur.com/AP9ekue.png">
 </p>
 <p>
 
