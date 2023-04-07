@@ -11,6 +11,7 @@ This tutorial outlines network security groups (NSGs) and inspecting network pro
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Active Directory
+- Network Security Groups
 
 <h2>Operating Systems Used </h2>
 
