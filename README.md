@@ -92,7 +92,7 @@ Select the Sharing tab. Then, click on the Sharing button.<img src="https://imgu
 - Domain Users
   
 <p>
-Type “Domain Users” in the search box. Then, click the Add button. <img src="https://imgur.com/QrpgvxW.png">
+Type “domain users” in the search box. Then, click the Add button. <img src="https://imgur.com/QrpgvxW.png">
 </p>
 <p>
 
@@ -190,21 +190,14 @@ Type “Domain Admins” in the search box. Then, click the Add button. <img src
 - Permission Level
   
 <p>
-Within the Permission Level section select the “Read/Write,” option.<img src="https://imgur.com/j4QxUmG.png">
-</p>
-<p>
-
-- Share
-  
-<p>
-Click the Share button. 111<img src="https://imgur.com/hJy0wd2.png">
+Within the Permission Level section select the “Read/Write,” option. Then, click the Share button. <img src="https://imgur.com/j4QxUmG.png">
 </p>
 <p>
 
 - Done
   
 <p>
-Then, click the Done button. <img src="https://imgur.com/RsE8SLx.png">
+Next, click the Done button. <img src="https://imgur.com/RsE8SLx.png">
 </p>
 <p>
 
