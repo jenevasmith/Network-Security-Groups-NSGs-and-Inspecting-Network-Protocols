@@ -337,7 +337,7 @@ Next, click the Done button. <img src="https://imgur.com/3HPK96n.png">
 - Close
   
 <p>
-Then, click the Close button.<img src="https://imgur.com/zgo4N2D.png">
+Afterward, click the Close button to close the Properties window. <img src="https://imgur.com/zgo4N2D.png">
 </p>
 <p>
 
