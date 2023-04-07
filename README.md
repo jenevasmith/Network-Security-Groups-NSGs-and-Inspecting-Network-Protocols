@@ -330,14 +330,14 @@ Within the Permission Level section select the “Read/Write,” option. Then, c
 - Done
   
 <p>
-Click the Done button. <img src="https://imgur.com/3HPK96n.png">
+Next, click the Done button. <img src="https://imgur.com/3HPK96n.png">
 </p>
 <p>
 
 - Close
   
 <p>
-Click the Close button.<img src="https://imgur.com/zgo4N2D.png">
+Then, click the Close button.<img src="https://imgur.com/zgo4N2D.png">
 </p>
 <p>
 
