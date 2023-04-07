@@ -134,7 +134,7 @@ Select the Sharing tab. Then, click on the Share button to share the folder.<img
 - Domain Users
   
 <p>
-Type “Domain Users” in the search box. Then, click on the Add button. <img src="https://imgur.com/JcNloB2.png">
+Type “domain users” in the search box. Then, click on the Add button. <img src="https://imgur.com/JcNloB2.png">
 </p>
 <p>
 
