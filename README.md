@@ -113,7 +113,7 @@ Then, click the Done button. <img src="https://imgur.com/G2TzJVo.png">
 - Close
   
 <p>
-Afterward, click the Close button. <img src="https://imgur.com/yyo9fU2.png">
+Afterward, click the Close button to close the Properties window. <img src="https://imgur.com/yyo9fU2.png">
 </p>
 <p>
 
@@ -162,7 +162,7 @@ Then, click the Done button. <img src="https://imgur.com/2Bb6R93.png">
 - Close
   
 <p>
-Afterward, click the Close button. <img src="https://imgur.com/az75AR9.png">
+Afterward, click the Close button to close the Properties window. <img src="https://imgur.com/az75AR9.png">
 </p>
 <p>
 
@@ -211,7 +211,7 @@ Then, click the Done button. <img src="https://imgur.com/RsE8SLx.png">
 - Close
   
 <p>
-Afterward, click the Close button. <img src="https://imgur.com/M1H5AvY.png">
+Afterward, click the Close button to close the Properties window. <img src="https://imgur.com/M1H5AvY.png">
 </p>
 <p>
 
