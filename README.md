@@ -393,7 +393,7 @@ Next, type in the username of the randomly generated user that you selected. The
 - Apply and OK
   
 <p>
-Click the Apply and OK buttons, respectively.<img src="https://imgur.com/Frl7Dzj.png">
+Afterward, click on the Apply and OK buttons, respectively. <img src="https://imgur.com/Frl7Dzj.png">
 </p>
 <p>
 
