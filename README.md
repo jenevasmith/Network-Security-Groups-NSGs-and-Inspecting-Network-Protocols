@@ -344,7 +344,7 @@ Afterward, click the Close button to close the Properties window. <img src="http
 - Accounting Folder
   
 <p>
-Go back to Client-1 and as the randomly generated user of your choice, try to access the accounting folder.
+Go back to Client-1 and as the randomly generated user of your choice and try to access the accounting folder.
 </p>
 <p>
 
