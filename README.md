@@ -127,14 +127,14 @@ Right click on the “write-access” folder. Select Properties from the drop do
 - Sharing
   
 <p>
-Select the Sharing tab. Then, click on the Share button.<img src="https://imgur.com/vaR0uOY.png">
+Select the Sharing tab. Then, click on the Share button to share the folder.<img src="https://imgur.com/vaR0uOY.png">
 </p>
 <p>
 
 - Domain Users
   
 <p>
-Type “Domain Users” in the search box.<img src="https://imgur.com/JcNloB2.png">
+Type “Domain Users” in the search box. Then, click on the Add button. <img src="https://imgur.com/JcNloB2.png">
 </p>
 <p>
 
@@ -148,7 +148,7 @@ Within the Permission Level section select the “Read/Write,” option.<img src
 - Share 
   
 <p>
-Click the Share button.<img src="https://imgur.com/0J9f2fc.png">
+Next, click the Share button to share the folder. <img src="https://imgur.com/0J9f2fc.png">
 </p>
 <p>
 
