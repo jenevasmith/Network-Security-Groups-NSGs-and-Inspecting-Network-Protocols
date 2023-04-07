@@ -348,7 +348,7 @@ Go back to Client-1 and as the randomly generated user of your choice and try to
 </p>
 <p>
 
-- dc-1
+- DC-1
   
 <p>
 Within File Explorer type “\\dc-1” to access the shared items.<img src="https://imgur.com/qJE3RE6.png">
@@ -363,8 +363,12 @@ Double click on the “accounting” folder. It should fail.<img src="https://im
 - Log out of Client-1 as the randomly generated user that you selected.
 
 - DC-1
-In DC-1, make the randomly generated user that you selected a member of the “ACCOUNTANTS” Security Group.
 
+<p>
+In DC-1, make the randomly generated user that you selected a member of the “ACCOUNTANTS” Security Group.
+</p>
+<p>
+    
 - Security Groups
   
 <p>
