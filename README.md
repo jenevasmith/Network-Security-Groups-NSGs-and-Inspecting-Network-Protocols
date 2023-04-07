@@ -413,10 +413,3 @@ Try to access the “accounting” share folder in File Explorer via \\dc-1\. Do
 The accounting folder should now be accessible to the previously generated user that you selected.<img src="https://imgur.com/3rFI9Av.png">
 </p>
 <p>
-
-- Header
-  
-<p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
-</p>
-<p>
