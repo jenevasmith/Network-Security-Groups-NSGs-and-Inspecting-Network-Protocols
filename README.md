@@ -379,14 +379,7 @@ Within “_SECURITY_GROUPS” click on ACCOUNTANTS.<img src="https://imgur.com/1
 - Members
   
 <p>
-Select the Members tab.<img src="https://imgur.com/auFkf8h.png">
-</p>
-<p>
-
-- Add
-  
-<p>
-Click the Add button.<img src="https://imgur.com/in2STTG.png">
+Then, select the Members tab, followed by the Add button to add a member.<img src="https://imgur.com/auFkf8h.png">
 </p>
 <p>
 
