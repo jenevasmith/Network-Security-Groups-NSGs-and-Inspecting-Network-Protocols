@@ -297,7 +297,7 @@ The Group Type is defaulted to “Security Group,” so click on the OK button. 
 </p>
 <p>
 
-- Create an “ACCOUNTANTS” Security Group, assign permissions, and test access. 
+- Create an “ACCOUNTANTS” Security Group, Assign Permissions, and Test Access 
 
 - Properties
   
