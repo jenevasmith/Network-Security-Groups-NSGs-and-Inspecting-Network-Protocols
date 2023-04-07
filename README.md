@@ -141,7 +141,7 @@ Type “domain users” in the search box. Then, click on the Add button. <img s
 - Permission Level
   
 <p>
-Within the Permission Level section select the “Read/Write,” option. Next, click the Share button to share the folder. <img src="https://imgur.com/0xAccju.png">
+Within the Permission Level section select the “Read/Write,” option. Next, click the Share button. <img src="https://imgur.com/0xAccju.png">
 </p>
 <p>
 
