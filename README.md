@@ -263,7 +263,7 @@ Right click on “mydomain.com” within Active Directory Users and Computers.<i
 - Refresh
   
 <p>
-Within mydomain.com’s drop down menu select the Refresh.<img src="https://imgur.com/K9f10ad.png">
+Within mydomain.com’s drop down menu select the Refresh option.<img src="https://imgur.com/K9f10ad.png">
 </p>
 <p>
 
