@@ -386,7 +386,7 @@ Then, select the Members tab, followed by the Add button to add a member.<img sr
 - Object Names
   
 <p>
-Enter the username of a randomly generated user of your choice. Click the Check Names and OK buttons, respectively.<img src="https://imgur.com/KlpbfMw.png">
+Next, type in the username of the randomly generated user that you selected. Then, continue by clicking on the Check Names and OK buttons, respectively. <img src="https://imgur.com/KlpbfMw.png">
 </p>
 <p>
 
