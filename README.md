@@ -309,7 +309,7 @@ In Windows (C:) right click the “accounting” folder. Then, select Properties
 - Sharing
   
 <p>
-Select the Sharing tab. Then, click on the Sharing button.<img src="https://imgur.com/KJt65yx.png">
+Select the Sharing tab. Then, click on the Share button to share the folder. <img src="https://imgur.com/KJt65yx.png">
 </p>
 <p>
 
@@ -320,24 +320,10 @@ Type “ACCOUNTANTS” in the search box. Then, Click the Add button. <img src="
 </p>
 <p>
 
-- Add
-  
-<p>
-Click the Add button.<img src="https://imgur.com/Co6zrHF.png">
-</p>
-<p>
-
 - Permission Level
   
 <p>
-Within the Permission Level section select the “Read/Write,” option.<img src="https://imgur.com/4ylrOta.png">
-</p>
-<p>
-
-- Share 
-  
-<p>
-Click the Share button.<img src="https://imgur.com/ntoCAQu.png">
+Within the Permission Level section select the “Read/Write,” option. Then, click the Share button. <img src="https://imgur.com/4ylrOta.png">
 </p>
 <p>
 
