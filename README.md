@@ -221,7 +221,7 @@ Try to access the folders you just created. Which folders can you access? Which 
 - Example
   
 <p>
-For example, in the “write-access” folder you should be able to create a file within this folder.<img src="https://imgur.com/onKLCuY.png">
+For example, in the “write-access” folder you should be able to create a file within this folder.<img src="https://imgur.com/TB0wYuA.png">
 </p>
 <p>
 
