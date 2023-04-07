@@ -127,7 +127,7 @@ Right click on the “write-access” folder. Select Properties from the drop do
 - Sharing
   
 <p>
-Select the Sharing tab. Then, click on the Sharing button.<img src="https://imgur.com/vaR0uOY.png">
+Select the Sharing tab. Then, click on the Share button.<img src="https://imgur.com/vaR0uOY.png">
 </p>
 <p>
 
