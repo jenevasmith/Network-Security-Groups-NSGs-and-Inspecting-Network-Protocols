@@ -26,7 +26,7 @@ This tutorial outlines network security groups (NSGs) and inspecting network pro
 - Install Active Directory (AD)
 - Create an Administrator and Normal User Account in Active Directory.
 - Join Client-1 to your domain.
-    - For example: mydomain.com
+    - Example domain name: mydomain.com
 - Setup Remote Desktop for non-administrative users within Client-1.
 - Create additional users and attempt to log into Client-1 as one of the users.
 
