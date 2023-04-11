@@ -72,7 +72,7 @@ Next, in DC-1, in the C:\ drive, create folder: "no-access." <img src="https://i
 <p>
   
 <p>
-Followed by, in DC-1's C:\ drive, create folder: "accounting." <img src="https://imgur.com/nPTyejh.png">
+Followed by, in DC-1, in the C:\ drive, create folder: "accounting." <img src="https://imgur.com/nPTyejh.png">
 </p>
 <p>
 
