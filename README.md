@@ -86,7 +86,7 @@ Right click on the “read-access” folder. Select Properties from the drop dow
 - Sharing
   
 <p>
-Select the Sharing tab. Then, click on the Sharing button.<img src="https://imgur.com/ztKAdCS.png">
+Select the Sharing tab. Then, click on the Share button to begin sharing the folder.<img src="https://imgur.com/ztKAdCS.png">
 </p>
 <p>
 
