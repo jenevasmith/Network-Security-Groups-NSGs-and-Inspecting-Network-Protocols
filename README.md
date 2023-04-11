@@ -36,11 +36,11 @@ This tutorial outlines network security groups (NSGs) and inspecting network pro
 - Create sample file shares with various permissions.
 
 <p>
-Connect/log into DC-1 as your domain admin account (mydomain.com\[insert administrator username]).<img src="https://imgur.com/Q156ssu.png">
+Connect/log into DC-1 using your domain administrator account by typing, "mydomain.com\[insert administrator username]" into the username section. <img src="https://imgur.com/Q156ssu.png">
 </p>
 <p>
 
-- Connect/log into Client-1 as a normal user (mydomain\[insert the username of a randomly generated user of your choice]. 
+- Connect/log into Client-1 as a normal user, "mydomain\[insert the username of a randomly generated user of your choice]." 
   
 <p>
 Within Active Directory Users and Computers, click on mydomain.com’s drop down menu. Select “_EMPLOYEES” from mydomain.com’s drop down menu. Then, choose a user to login as.<img src="https://imgur.com/91jcX5T.png">
