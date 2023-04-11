@@ -210,7 +210,7 @@ In Client-1, open File Explorer.<img src="https://imgur.com/mhuwMDU.png">
 <p>
 
 <p>
-Within the search bar type, “\\dc-1. Then, click “Enter”<img src="https://imgur.com/0K75mEL.png">
+Within the search bar type, “\\dc-1." Then, click “Enter.” <img src="https://imgur.com/0K75mEL.png">
 </p>
 <p>
   
